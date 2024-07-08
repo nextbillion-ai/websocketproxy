@@ -1,4 +1,4 @@
-module nextbillion-ai/websocketproxy
+module github.com/nextbillion-ai/websocketproxy
 
 go 1.22.2
 
